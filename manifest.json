@@ -1,0 +1,22 @@
+{
+  "name": "To-Do List",
+  "short_name": "To-Do",
+  "description": "A simple and clean To-Do List web app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#94d7ed",
+  "theme_color": "#31318d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
